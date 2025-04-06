@@ -1,10 +1,10 @@
-# 🤖 Robot Framework Test Suite - Material de Treinamento
+# Robot Framework Test Suite - Material de Treinamento
 
 Este repositório contém testes automatizados desenvolvidos com **Robot Framework**, com o objetivo de **praticar conceitos de automação de testes em aplicações web e APIs**. É um material de estudo voltado para quem está iniciando na ferramenta e deseja conhecer sua estrutura, sintaxe e boas práticas.
 
 ---
 
-## 📌 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - [Robot Framework](https://robotframework.org/)
 - [SeleniumLibrary](https://robotframework.org/SeleniumLibrary/)
@@ -15,7 +15,7 @@ Este repositório contém testes automatizados desenvolvidos com **Robot Framewo
 
 ---
 
-## 🧪 Estrutura dos Testes
+## Estrutura dos Testes
 
 - **tests/**: Casos de testes organizados por funcionalidades.
 - **resources/**: Arquivos com palavras-chave customizadas reutilizáveis.
@@ -24,7 +24,7 @@ Este repositório contém testes automatizados desenvolvidos com **Robot Framewo
 
 ---
 
-## 📄 Relatórios
+## Relatórios
 
 Após a execução dos testes com o Robot Framework, são gerados automaticamente os seguintes arquivos na raiz do projeto:
 
@@ -36,7 +36,7 @@ Você pode abrir o `report.html` no navegador para visualizar o resultado da exe
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por **Michael Maia**  
 [LinkedIn](https://www.linkedin.com/in/qamichaelmaia)
