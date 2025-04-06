@@ -24,6 +24,19 @@ Este repositório contém testes automatizados desenvolvidos com **Robot Framewo
 
 ---
 
+## Execução dos Testes
+
+### Rodar todos os testes
+
+```bash
+robot tests/
+```
+## Rodar um arquivo específico
+```bash
+robot tests/test_saucedemo_login.robot
+```
+---
+
 ## Relatórios
 
 Após a execução dos testes com o Robot Framework, são gerados automaticamente os seguintes arquivos na raiz do projeto:
